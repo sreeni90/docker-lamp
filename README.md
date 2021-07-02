@@ -41,7 +41,7 @@ git fetch --all
 docker-compose up -d --build
 ```
 
-You can access your LAMP stack via `http://localhost` or `http://app.local`
+You can access your LAMP stack via `http://localhost` or `http://amp.wise.energy.local`
 
 > You need to modify your hosts file. [How to Edit the Hosts File?](https://gist.github.com/andreipa/47ce0679d1905883c18b9ac3a1a9a8f6)
 
